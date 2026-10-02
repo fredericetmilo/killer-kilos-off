@@ -1,0 +1,23 @@
+Mentions de licence originales des fichiers GSAP 3.12.7 distribués.
+Le paquet npm de cette version ne contient pas de fichier LICENSE séparé.
+Les conditions applicables sont celles indiquées dans ces en-têtes ; ce fichier ne les remplace pas.
+
+gsap.min.js
+/*!
+ * GSAP 3.12.7
+ * https://gsap.com
+ * 
+ * @license Copyright 2025, GreenSock. All rights reserved.
+ * Subject to the terms at https://gsap.com/standard-license or for Club GSAP members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+ */
+
+ScrollTrigger.min.js
+/*!
+ * ScrollTrigger 3.12.7
+ * https://gsap.com
+ * 
+ * @license Copyright 2025, GreenSock. All rights reserved.
+ * Subject to the terms at https://gsap.com/standard-license or for Club GSAP members, the agreement issued with that membership.
+ * @author: Jack Doyle, jack@greensock.com
+ */
